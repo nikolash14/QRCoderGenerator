@@ -1,0 +1,12 @@
+D:\Project Solution Designs\QRCode\QRCoderGenerator\QRUtility\bin\Debug\QRUtility.dll
+D:\Project Solution Designs\QRCode\QRCoderGenerator\QRUtility\bin\Debug\QRUtility.pdb
+D:\Project Solution Designs\QRCode\QRCoderGenerator\QRUtility\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Project Solution Designs\QRCode\QRCoderGenerator\QRUtility\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Project Solution Designs\QRCode\QRCoderGenerator\QRUtility\bin\Debug\QRCoder.dll
+D:\Project Solution Designs\QRCode\QRCoderGenerator\QRUtility\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Project Solution Designs\QRCode\QRCoderGenerator\QRUtility\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Project Solution Designs\QRCode\QRCoderGenerator\QRUtility\obj\Debug\QRUtility.csproj.AssemblyReference.cache
+D:\Project Solution Designs\QRCode\QRCoderGenerator\QRUtility\obj\Debug\QRUtility.csproj.CoreCompileInputs.cache
+D:\Project Solution Designs\QRCode\QRCoderGenerator\QRUtility\obj\Debug\QRUtility.csproj.CopyComplete
+D:\Project Solution Designs\QRCode\QRCoderGenerator\QRUtility\obj\Debug\QRUtility.dll
+D:\Project Solution Designs\QRCode\QRCoderGenerator\QRUtility\obj\Debug\QRUtility.pdb
